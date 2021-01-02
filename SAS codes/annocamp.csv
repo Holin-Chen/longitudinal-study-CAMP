@@ -1,0 +1,5 @@
+function,x1 ,y1,x2,y2,height ,width,rotate,textsize,transparency,textweight,label
+text,80,38,.,.,.,100,0,6,0,bold,Annual Growth in FEV1 by Treatment Group
+text,75,36,.,.,.,100,0,6,0,normal,A: 0.21242  p-value: 0.6035
+text,75,34,.,.,.,100,0,6,0,normal,B: 0.2313   p-value: 0.0605
+text,72.25,32,.,.,.,100,0,6,0,normal,C: 0.2165  (Ref)
